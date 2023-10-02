@@ -14,7 +14,7 @@
 * OPENAI_API_KEY=
 * SERPER_API_KEY=
 * BROWSERLESS_API_KEY=
-* 
+  
 ## 视频讲解
 * B站      
 * youtube   
