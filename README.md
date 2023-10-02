@@ -12,7 +12,7 @@
 
 ## .env文件必要参数 list
 * OPENAI_API_KEY=
-* SERPER_API_KEY
+* SERPER_API_KEY=
 * BROWSERLESS_API_KEY=
 * 
 ## 视频讲解
