@@ -1,0 +1,7 @@
+
+openai
+langchain
+bs4
+python-dotenv
+pydantic
+tiktoken
