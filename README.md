@@ -16,8 +16,8 @@
 * BROWSERLESS_API_KEY=
   
 ## 视频讲解
-* B站      
-* youtube   
+* B站       https://www.bilibili.com/video/BV1JV411F7Yj/
+* youtube   https://youtu.be/_lyE6T0njWQ
 
 ## 小小声明
 
